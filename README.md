@@ -24,5 +24,6 @@ Project ini dibuat sebagai inovasi digitalisasi buku tamu dengan memadukan fitur
 ## Cara Menjalankan Project
 1. Pindahkan folder project ke `htdocs`
 2. Jalankan XAMPP
-3. Import database `.sql`
-4. Buka browser:
+3. Jangan lupa buat folder upload
+5. Import database `.sql`
+6. Buka browser:
